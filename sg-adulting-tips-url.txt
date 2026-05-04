@@ -1,1 +1,1 @@
-https://github.com/Hapemo/sg-adulting-tip-data.git
+https://github.com/Hapemo/sg-adulting-tip-data/blob/main/daily-tip-store.json
