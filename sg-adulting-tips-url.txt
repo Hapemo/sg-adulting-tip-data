@@ -1,2 +1,2 @@
 https://github.com/Hapemo/sg-adulting-tip-data/blob/main/daily-tip-store.json
-8a3f2c9b4d1e6f0a2c5b8d7e3f6a4c1b9e2d5f7a8c1b4e6d9f2a5c8b1e4d7f0e
+8a3f2c9b4d1e6f0a2c5b8d7e3f6a4c1b9e2d5f7a8c1b4e6d9f2a5c8b1e4d7f19
